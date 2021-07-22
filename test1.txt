@@ -1,0 +1,12 @@
+ Le volume dans le lecteur C n'a pas de nom.
+ Le num‚ro de s‚rie du volume est 227B-0B7E
+
+ R‚pertoire de C:\Users\DOUSSA\Desktop\test
+
+22/07/2021  22:25    <DIR>          .
+22/07/2021  22:25    <DIR>          ..
+18/07/2021  19:47               243 EX02_1.tc
+18/07/2021  19:34               250 Search_Boking.tc
+22/07/2021  22:25                 0 test1.txt
+               3 fichier(s)              493 octets
+               2 R‚p(s)  376ÿ713ÿ404ÿ416 octets libres
